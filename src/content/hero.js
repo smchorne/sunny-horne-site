@@ -4,8 +4,8 @@
 
 export const hero = {
   name: "Sunny Horne",
-  tagline: "I build clarity from complexity—connecting strategy, people, and process to drive meaningful outcomes at scale.",
-  subtext: "Product & operations leader. Builder of teams, systems, and what's next.",
+  tagline: "I drop into complex problems, earn trust across organizations, and build the process that lets teams deliver — methodically, at scale.",
+  subtext: "Product & operations leader. I shape strategy through process, earn trust at all levels, and scale what works.",
   ctaLabel: "Get in Touch",
 
   // Three "What I Do" cards on the homepage
@@ -13,17 +13,17 @@ export const hero = {
     {
       title: "Build",
       description:
-        "I take ambiguous problems from zero to one — defining the customer need, shaping the product vision, and driving cross-functional teams to launch.",
+        "I drop into ambiguous problems and ask more questions than most. Deep customer understanding and methodical planning create the clarity that turns an ambiguous idea into a launchable product.",
     },
     {
       title: "Scale",
       description:
-        "I design the systems, frameworks, and operational rhythms that let products and organizations grow without losing quality or speed.",
+        "Good process is infrastructure, not overhead. I build the systems and shared language that let teams move fast — and trust they're moving in the right direction.",
     },
     {
       title: "Lead",
       description:
-        "I earn trust at every level — engineers, executives, and stakeholders — and create the conditions for teams to do their best work.",
+        "I earn trust at every level by defaulting to transparency and creating psychological safety. When people understand the 'why' and feel safe to be wrong, teams do their best work.",
     },
   ],
 

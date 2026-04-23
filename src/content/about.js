@@ -20,9 +20,9 @@ export const about = {
   values: {
     heading: "How I work",
     intro:
-      "I'm methodical, not fast. I ask more questions than most. I believe that the best products and teams are built on psychological safety — where people can say what they actually think.",
+      "I'm methodical. I ask more questions than most. I believe that the best products and teams are built on psychological safety — where people can say what they actually think.",
     list: [
-      { label: "Customer empathy first", description: "I listen for what isn't being said as much as what is. Real understanding drives better decisions than any framework." },
+      { label: "Customer empathy first", description: "I listen for what isn't being said as much as what is. Assumptions built on half-understanding waste everyone's time." },
       { label: "Process as infrastructure", description: "Good process doesn't slow teams down — it creates the shared language that lets them move fast without breaking things." },
       { label: "Transparency", description: "I default to visible reasoning. People do better work when they understand the 'why' behind the direction." },
       { label: "Space to fail", description: "Iteration requires permission to be wrong. I try to model that, and to build teams where it's safe to try." },
