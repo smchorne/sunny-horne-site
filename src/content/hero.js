@@ -31,7 +31,7 @@ export const hero = {
   stats: [
     { value: "$5M+", label: "in annual cost savings driven" },
     { value: "175%", label: "enterprise product adoption growth" },
-    { value: "11+ yrs", label: "across ops, marketing & product" },
+    { value: "12+ yrs", label: "across ops, marketing & product" },
   ],
 
   // Pull quote for the homepage teaser
