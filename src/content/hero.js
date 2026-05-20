@@ -5,7 +5,7 @@
 export const hero = {
   name: "Sunny Horne",
   tagline: "I drop into complex problems, earn trust across organizations, and build the process that lets teams deliver — methodically, at scale.",
-  subtext: "Product & operations leader. I shape strategy through process, earn trust at all levels, and scale what works.",
+  subtext: "Product & AI strategy leader. I shape strategy through process, earn trust at all levels, and scale what works.",
   ctaLabel: "Get in Touch",
 
   // Three "What I Do" cards on the homepage

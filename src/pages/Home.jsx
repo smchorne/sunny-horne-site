@@ -27,7 +27,7 @@ export default function Home() {
             className="max-w-3xl"
           >
             <motion.p variants={fadeUp} className="text-caramel text-sm font-medium uppercase tracking-widest mb-4">
-              Product &amp; Operations Leader
+              Product &amp; AI Strategy Leader
             </motion.p>
             <motion.h1 variants={fadeUp} className="font-serif text-5xl md:text-7xl font-semibold leading-tight mb-6">
               {hero.name}
