@@ -14,7 +14,7 @@
 export const experience = [
   {
     company: "Intuit",
-    about: "American financial technology company, $21B revenue — TurboTax, QuickBooks, and Mailchimp.",
+    about: "American financial technology company, $21B revenue: TurboTax, QuickBooks, and Mailchimp.",
     location: "Remote",
     dates: "Aug 2025 – Present",
     title: "Product Manager, Technical (Contract)",
@@ -22,13 +22,13 @@ export const experience = [
       "Hired to lead strategy and execution for Intuit's corporate talent performance management and development technology.",
     achievements: [
       "Lead fit/gap analysis, strategy, requirements, and roadmap execution for digital transformation to Workday systems.",
-      "Own AI strategy, roadmap, and product requirements for the talent performance domain — serving as vertical PM owner within a cross-functional initiative to build Intuit's enterprise-wide AI architectural foundation spanning all workforce technology.",
+      "Own AI strategy, roadmap, and product requirements for the talent performance domain, serving as vertical PM owner within a cross-functional initiative to build Intuit's enterprise-wide AI architectural foundation spanning all workforce technology.",
       "Piloting an AI-powered 1:1 prep agent as a no-regret use case to validate Intuit's enterprise AI architecture; agent generates contextual work summaries and proposes agenda topics for manager–employee conversations, with a roadmap to evolve into an enterprise-wide performance coach.",
     ],
   },
   {
     company: "Amazon",
-    about: "Global technology company, $638B revenue — e-commerce, cloud computing, AI, and digital services.",
+    about: "Global technology company, $638B revenue: e-commerce, cloud computing, AI, and digital services.",
     location: "Portland, OR",
     dates: "Apr 2024 – Aug 2025",
     title: "Principal Product Manager, Technical",
@@ -49,7 +49,7 @@ export const experience = [
     intro:
       "Promoted to drive and scale talent acquisition tooling; built a zero-to-one executive sourcing tool and led organizational process standardization.",
     achievements: [
-      "Reduced executive hiring cycle time by 25% by spearheading strategy, roadmap, and launch plan for a 0-1 specialty recruiting product — reached 90% adoption within the first year.",
+      "Reduced executive hiring cycle time by 25% by spearheading strategy, roadmap, and launch plan for a 0-1 specialty recruiting product; reached 90% adoption within the first year.",
       "Developed and launched operational frameworks for the development lifecycle; standardized collaboration across 20+ teams including product, engineering, program management, and UX.",
     ],
   },
@@ -59,7 +59,7 @@ export const experience = [
     dates: "Mar 2020 – Oct 2021",
     title: "Senior Product Manager",
     intro:
-      "Made a deliberate move into product management — backed by leadership — to scale talent products across performance and learning & development domains.",
+      "Made a deliberate move into product management, backed by leadership, to scale talent products across performance and learning and development domains.",
     achievements: [
       "Scaled talent management product adoption +175% across all Amazon organizations, with SVP-level visibility; led the roadmap, go-to-market strategy, and cross-functional alignment across three organizations and 100+ FTEs.",
       "Reduced global developer costs across 10 teams by leading product vision and roadmap for a new data services platform supporting notifications, segmentation, and content orchestration for HR tools.",
@@ -88,7 +88,7 @@ export const experience = [
     achievements: [
       "Contributed 8-figure attributable revenue through campaign experimentation for global deal events, increasing product CTR by 1,500 bps and driving cross-sell to complementary Amazon services.",
       "Served as strategic anchor for 40+ retail and tech teams on seasonal strategy and global site experience, shaping product and UX roadmap decisions across Amazon's global deals ecosystem.",
-      "Led rebranding and global launch of Amazon Deals across Legal, PR, Product, Engineering, and Design — increased deal CTR by 400 bps and drove significant revenue lift within the first two months.",
+      "Led rebranding and global launch of Amazon Deals across Legal, PR, Product, Engineering, and Design, increasing deal CTR by 400 bps and driving significant revenue lift within the first two months.",
     ],
   },
   {
@@ -110,7 +110,7 @@ export const education = [
     note: "Capstone Competition Case Winner",
   },
   {
-    degree: "BSBA, Marketing — Minor in Spanish",
+    degree: "BSBA, Marketing, Minor in Spanish",
     school: "Auburn University",
     note: "Magna Cum Laude",
   },

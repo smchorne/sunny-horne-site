@@ -4,7 +4,7 @@
 
 export const hero = {
   name: "Sunny Horne",
-  tagline: "I drop into complex problems, earn trust across organizations, and build the process that lets teams deliver — methodically, at scale.",
+  tagline: "I drop into complex problems, earn trust across organizations, and build the process that lets teams deliver, methodically, at scale.",
   subtext: "Product & AI strategy leader. I shape strategy through process, earn trust at all levels, and scale what works.",
   ctaLabel: "Get in Touch",
 
@@ -18,7 +18,7 @@ export const hero = {
     {
       title: "Scale",
       description:
-        "Good process is infrastructure, not overhead. I build the systems and shared language that let teams move fast — and trust they're moving in the right direction.",
+        "Good process is infrastructure, not overhead. I build the systems and shared language that let teams move fast and trust they're moving in the right direction.",
     },
     {
       title: "Lead",
@@ -36,5 +36,5 @@ export const hero = {
 
   // Pull quote for the homepage teaser
   pullQuote:
-    "I like having big influence over a specific thing — not a tiny sliver of a big machine.",
+    "I like having big influence over a specific thing, not a tiny sliver of a big machine.",
 };
