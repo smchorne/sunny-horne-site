@@ -95,7 +95,7 @@ export const experience = [
   {
     company: "Amazon",
     location: "Robbinsville, NJ",
-    dates: "Apr 2014 – Mar 2016",
+    dates: "Apr 2014 – Oct 2016",
     title: "Area Manager, Fulfillment Operations",
     intro:
       "Promoted to Area Manager II for sustained leadership performance and cross-functional excellence, directly owning fulfillment operations for teams of up to 150 hourly associates during peak volume.",
