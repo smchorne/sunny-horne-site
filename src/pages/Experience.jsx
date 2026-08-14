@@ -64,7 +64,7 @@ export default function Experience() {
         <p className="text-caramel text-sm font-medium uppercase tracking-widest mb-2">Career</p>
         <h1 className="font-serif text-5xl text-forest font-semibold mb-4">Experience</h1>
         <p className="text-charcoal/60 text-lg max-w-xl">
-          12+ years across fulfillment operations, global marketing, and technical product management.
+          12+ years across fulfillment operations, global marketing, and enterprise product, operations, and AI strategy.
         </p>
       </motion.div>
 
