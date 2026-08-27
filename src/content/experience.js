@@ -21,10 +21,10 @@ export const experience = [
     intro:
       "Own AI and technology strategy for a high-volume enterprise service platform, partnering with product, engineering, and business leadership to turn ambiguous transformation goals into an executable roadmap.",
     achievements: [
-      "Own the fit/gap strategy and roadmap for Intuit's enterprise platform transformation to Workday, setting technical direction and sequencing delivery commitments across product, engineering, and business stakeholders.",
-      "Designed and launched a 0-1 self-service application on Workday powering a recurring, high-volume check-in workflow used enterprise-wide, delivering the transformation's first live product and setting the technical pattern for future Workday-native builds.",
+      "Own the fit/gap strategy and roadmap for Intuit's enterprise platform transformation to Workday, setting technical direction and sequencing delivery commitments across product, engineering, and business stakeholders through cutover and hypercare.",
+      "Delivered a 0-1 custom Workday application powering a monthly manager-employee check-in process, setting the technical pattern for future Workday-native builds.",
       "Own AI product strategy and operating model for a core enterprise service domain, serving as the vertical strategy lead within Intuit's enterprise-wide AI architecture spanning self-service, automation, and knowledge tools used company-wide.",
-      "Launched a suite of AI-powered self-service agents (real-time prep, automated summary generation, and a coaching agent) that eliminate manual context-gathering for two large user populations, cutting research time and redirecting effort toward higher-value conversations. Strong early adoption feedback validates the approach, and the suite establishes the data foundation for Intuit's ongoing AI-native service experiences.",
+      "Designed and launched a suite of AI workflows now in production, including 1:1 preparation, summary generation, and goal coaching, embedded directly into existing manager and employee workflows to remove the context-gathering work that crowds out substantive conversation. The suite established the data foundation and reusable configuration patterns that subsequent AI-native people experiences build on.",
     ],
   },
   {
@@ -50,7 +50,8 @@ export const experience = [
     intro:
       "Promoted to own enterprise sourcing strategy and drive organization-wide process standardization, building a zero-to-one sourcing product and the operating model that scaled delivery discipline org-wide.",
     achievements: [
-      "Owned strategy, roadmap, and launch for a 0-1 specialty sourcing product, reducing cycle time by 25% and reaching 90% adoption within year one through integrated feedback loops and organizational change management.",
+      "Owned strategy, roadmap, and launch for a 0-1 specialty sourcing product, reducing cycle time by 25% and reaching 90% adoption within six months through integrated feedback loops and organizational change management.",
+      "Designed the product to fold back into the broader platform; through a later enterprise technical consolidation, its capabilities were absorbed into the shared sourcing platform and extended org-wide, strengthening the function's seat in platform prioritization.",
       "Designed and launched the enterprise-wide SDLC operating model spanning 500+ technical and product professionals across 20+ teams, establishing planning cadences, ownership structures, and delivery standards that lifted cross-team collaboration and execution consistency org-wide.",
     ],
   },
