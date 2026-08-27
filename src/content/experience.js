@@ -19,12 +19,13 @@ export const experience = [
     dates: "Aug 2025 – Present",
     title: "Product Manager, Technical (Contract)",
     intro:
-      "Own AI and technology strategy for a high-volume enterprise service platform, partnering with product, engineering, and business leadership to turn ambiguous transformation goals into an executable roadmap.",
+      "Own AI and technology strategy for Intuit's corporate talent performance management and development platform, partnering with product, engineering, and HR leadership to turn ambiguous transformation goals into an executable roadmap.",
     achievements: [
-      "Own the fit/gap strategy and roadmap for Intuit's enterprise platform transformation to Workday, setting technical direction and sequencing delivery commitments across product, engineering, and business stakeholders through cutover and hypercare.",
-      "Delivered a 0-1 custom Workday application powering a monthly manager-employee check-in process, setting the technical pattern for future Workday-native builds.",
-      "Own AI product strategy and operating model for a core enterprise service domain, serving as the vertical strategy lead within Intuit's enterprise-wide AI architecture spanning self-service, automation, and knowledge tools used company-wide.",
-      "Designed and launched a suite of AI workflows now in production, including 1:1 preparation, summary generation, and goal coaching, embedded directly into existing manager and employee workflows to remove the context-gathering work that crowds out substantive conversation. The suite established the data foundation and reusable configuration patterns that subsequent AI-native people experiences build on.",
+      "Own AI product strategy and the operating model for the talent performance domain, one of several domain leads contributing into Intuit's enterprise-wide AI architectural foundation for workforce technology.",
+      "Designed and launched a suite of AI workflows in production, including 1:1 preparation, year-end summaries, and goal coaching, embedded directly into existing manager and employee workflows rather than offered as standalone tools, removing the context-gathering work that crowds out substantive conversation.",
+      "Established the data foundation and reusable configuration patterns that subsequent AI-native people experiences build on, so each redesign compounds rather than fragments.",
+      "Own the fit/gap strategy and roadmap for Intuit's transformation to Workday, setting technical direction and sequencing delivery commitments across product, engineering, and HR stakeholders through cutover and hypercare.",
+      "Delivered a 0-1 custom Workday application powering the monthly manager-employee check-in process, setting the technical pattern for future Workday Extend builds.",
     ],
   },
   {
